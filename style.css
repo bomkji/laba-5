@@ -1,0 +1,39 @@
+/* Використовуємо підключений шрифт Space Grotesk */
+body {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 400; /* стандартний вага для основного тексту */
+    line-height: 1.6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700; /* жирний шрифт для заголовка */
+    font-size: 2em;
+    margin-top: 20px;
+    color: #000;
+}
+
+h2 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 500; /* середня вага для підзаголовків */
+    font-size: 1.5em;
+    color: #444;
+}
+
+h3 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 600; /* трохи жирніший для підзаголовків третього рівня */
+    font-size: 1.2em;
+    color: #555;
+}
+
+p {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 300; /* легкий шрифт для тексту */
+    font-size: 1em;
+    color: #666;
+    margin-bottom: 15px;
+}
